@@ -19,6 +19,8 @@ public class PlayerController : MonoBehaviour
     //[SerializeField] private Weapon playerWeapon;
 
     [SerializeField] private bool groundedPlayer = true;
+    [SerializeField] private bool rolling = false;
+    [SerializeField] private bool opening = false;
 
     [SerializeField] private float maxXSpeed = 2.0f;
     [SerializeField] private float playerSpeed = 2.0f;
