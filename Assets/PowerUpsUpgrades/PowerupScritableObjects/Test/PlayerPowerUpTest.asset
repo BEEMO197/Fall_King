@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeef4d24e4449d04f80ddd79996dcc7d, type: 3}
+  m_Name: PlayerPowerUpTest
+  m_EditorClassIdentifier: 
+  powerUpMesh: {fileID: 4300000, guid: e021c1a7a552c5a44a48282c6f566418, type: 3}
+  powerUpMaterial: {fileID: 2100000, guid: 8d3a8767c49890047888854518822b77, type: 2}
+  maxSpeedChange: 10
+  speedChange: 1
+  jumpHeightChange: 0
+  massChange: 0

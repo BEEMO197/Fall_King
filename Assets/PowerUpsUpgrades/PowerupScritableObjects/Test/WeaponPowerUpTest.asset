@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36ffaf3216888904b886b70ec51fe1bc, type: 3}
+  m_Name: WeaponPowerUpTest
+  m_EditorClassIdentifier: 
+  powerUpMesh: {fileID: 4300000, guid: e021c1a7a552c5a44a48282c6f566418, type: 3}
+  powerUpMaterial: {fileID: 2100000, guid: cc5b20b4307519e40bdcc830c0b39d44, type: 2}
+  damageChange: 7.17
+  speedChange: 3.36
+  spreadChange: 3
+  sizeChange: 3
+  maxAmmoChange: 26
